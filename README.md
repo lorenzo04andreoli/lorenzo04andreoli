@@ -18,7 +18,7 @@ Tenho me aprofundado no desenvolvimento de **automações** especialmente utiliz
 
 - **Linguagens:** Java, Python, PHP, JavaScript, SQL  
 - **Frontend:** HTML, CSS (incluindo Tailwind CSS)  
-- **Backend:** PHP puro, MySQL, integração com APIs  
+- **Backend:** PHP puro, Java, Python, MySQL, integração com APIs  
 - **Estruturas de Dados:** Listas, Pilhas, Filas, Árvores, Grafos (em Java)  
 - **Ferramentas:** Git, Docker  
 - **Outros:** Streamlit (para protótipos com IA), consumo de APIs, automação de processos
