@@ -1,47 +1,25 @@
-## 👋 Olá! Eu sou Lorenzo Carneiro Andreoli
+# Lorenzo Andreoli
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💼 Atuo na área administrativa, com foco em aplicar tecnologia para otimização de processos  
-💻 Apaixonado por backend, sempre buscando evoluir minhas habilidades em **Java** e **Python**
+I'm a software developer passionate about solving real-world problems through code. I started my journey in tech driven by curiosity and a strong desire to understand how things work behind the scenes. Currently pursuing a degree in **Analysis and Systems Development**, I've been building up my skills both academically and independently. I began programming with **Java**, focusing on logic and fundamentals, and since then I've expanded into fullstack development with **PHP**, **MySQL**, and **JavaScript**, following the **MVC architecture**. 
 
----
+I’ve worked as a **freelancer**, helping a startup develop a clinic management system, and I also created automations using **Python** to improve internal processes in the legal and HR sectors of a public organization — including a **résumé analyzer with AI (Groq API)** and a **PDF renaming tool**.
 
-## 🚀 Sobre mim
-
-Atualmente, curso **Análise e Desenvolvimento de Sistemas** e venho desenvolvendo diversos projetos práticos que integram meus conhecimentos em gestão e tecnologia.
-
-Tenho me aprofundado no desenvolvimento de **automações** especialmente utilizando **Python**, **HTML, CSS e JavaScript** para frontend, além de explorar **Java** para desenvolvimento de sistemas e análise de dados.
+My current focus is on mastering **Spring Boot**, **Docker**, and **AWS**, aiming to become a well-rounded backend developer with cloud skills.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas que utilizo
+## 🧰 Tech Stack
 
-- **Linguagens:** Java, Python, PHP, JavaScript, SQL  
-- **Frontend:** HTML, CSS (incluindo Tailwind CSS)  
-- **Backend:** PHP puro, Java, Python, MySQL, integração com APIs  
-- **Estruturas de Dados:** Listas, Pilhas, Filas, Árvores, Grafos (em Java)  
-- **Ferramentas:** Git, Docker  
-- **Outros:** Streamlit (para protótipos com IA), consumo de APIs, automação de processos
+**Languages & Frameworks**  
+`Java` `PHP` `Python` `JavaScript` `Spring Boot`
 
----
-
-## 📚 Alguns dos meus projetos
-
-- **CRUD Full Stack** – Sistema completo de gerenciamento de funcionários, produtos e pedidos  
-- **Biblioteca Virtual em Java** – Sistema com estruturas de dados como LinkedList, Stack, Queue, Tree e Grafo para recomendação de livros  
-- **Analisador de Currículos com IA** – Protótipo em Python usando NoSQL e Streamlit  
-- **Renomeador Automático de PDFs com Python** – Automação criada para reduzir trabalho manual no ambiente de trabalho
+**Web & Tools**  
+`HTML` `CSS` `MySQL` `TinyDB` `Docker` `Git` `GitHub` `Google Drive API` `Groq AI API`
 
 ---
 
-## 🎯 Objetivos
+## 📈 Learning Goals
 
-- Aprimorar meus conhecimentos em **desenvolvimento web** e **backend**  
-- Explorar **computação em nuvem**, especialmente com **AWS**  
-- Criar soluções que integrem **Administração** e **Tecnologia** para gerar mais eficiência e inovação  
-- Ajudar outros desenvolvedores compartilhando meus projetos e aprendizados
-
----
-
-📫 **Quer trocar uma ideia ou colaborar em algum projeto?**  
-Sinta-se à vontade para me chamar por aqui ou conectar-se comigo no Linkedin.
+- Deepening knowledge in **Spring Boot & Java ecosystem**
+- Building cloud-native apps with **AWS** and **Docker**
+- Practicing algorithms and data structures with **LeetCode**
