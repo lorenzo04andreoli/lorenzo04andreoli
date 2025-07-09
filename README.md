@@ -1,10 +1,8 @@
 # Lorenzo Andreoli
 
-I'm a software developer passionate about solving real-world problems through code. I started my journey in tech driven by curiosity and a strong desire to understand how things work behind the scenes. Currently pursuing a degree in **Analysis and Systems Development**, I've been building up my skills both academically and independently. I began programming with **Java**, focusing on logic and fundamentals, and since then I've expanded into fullstack development with **PHP**, **MySQL**, and **JavaScript**, following the **MVC architecture**. 
-
-I’ve worked as a **freelancer**, helping a startup develop a clinic management system, and I also created automations using **Python** to improve internal processes in the legal and HR sectors of a public organization — including a **résumé analyzer with AI (Groq API)** and a **PDF renaming tool**.
-
-My current focus is on mastering **Spring Boot**, **Docker**, and **AWS**, aiming to become a well-rounded backend developer with cloud skills.
+I am a software developer passionate about solving real-world problems through programming. I began my journey in technology driven by curiosity and a strong desire to understand how things work behind the scenes. I am currently pursuing a degree in Systems Analysis and Development, continuously improving my skills both academically and through self-study. 
+I started learning Java, focusing on programming logic and core fundamentals. Since then, I have been applying concepts of Object-Oriented Programming (OOP), MVC architecture, and using tools such as Spring Boot and Maven to build robust applications. I have experience with relational databases (MySQL) and non-relational databases (MongoDB, DynamoDB), as well as knowledge of RESTful APIs, Git, GitHub, Docker, and microservices principles. I am also familiar with AWS services such as S3 and DynamoDB. 
+I worked as a freelancer, assisting a startup in developing a management system for clinics, and also created Python automations to optimize internal processes in the legal and HR departments of a public organization — including a résumé analyzer powered by AI (Groq API) and a PDF renaming tool.
 
 ---
 
@@ -16,10 +14,4 @@ My current focus is on mastering **Spring Boot**, **Docker**, and **AWS**, aimin
 **Web & Tools**  
 `HTML` `CSS` `MySQL` `TinyDB` `Docker` `Git` `GitHub` `Google Drive API` `Groq AI API`
 
----
 
-## 📈 Learning Goals
-
-- Deepening knowledge in **Spring Boot & Java ecosystem**
-- Building cloud-native apps with **AWS** and **Docker**
-- Practicing algorithms and data structures with **LeetCode**
