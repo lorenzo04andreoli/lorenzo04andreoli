@@ -29,7 +29,7 @@ I am currently seeking opportunities as a **Backend Java Intern or Junior Develo
 `MySQL` `PostgreSQL` `RDS` `TinyDB` `MongoDB`
 
 ### DevOps & Cloud
-`Docker` `Docker Compose` `AWS EC2` `AWS S3`
+`Docker` `Docker Compose` `AWS EC2` `AWS S3` `AWS Lambda` `AWS IAM`
 
 ### Tools & Others
 `Git` `GitHub` `REST APIs`
