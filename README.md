@@ -23,7 +23,7 @@ I am currently seeking opportunities as a **Backend Java Intern or Junior Develo
 `Spring Boot` `Spring Security` `Spring Data JPA` `Hibernate` `Maven`
 
 ### Frontend
-`Next.js` `React` `HTML` `CSS` `JavaScript`
+`Angular` `Next.js` `React` `HTML` `CSS` `JavaScript`
 
 ### Databases
 `MySQL` `PostgreSQL` `RDS` `TinyDB` `MongoDB`
