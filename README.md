@@ -1,41 +1,185 @@
-# Lorenzo Andreoli
+# 👋 Hi, I'm Lorenzo Andreoli
 
-Backend-focused software developer with a strong interest in building **robust, secure, and scalable systems** to solve real-world problems. My journey in technology started from curiosity and evolved through hands-on experience in **production environments**, combining academic learning with practical development.
+<div align="center">
 
-I am currently pursuing a degree in **Systems Analysis and Development**, while continuously improving my backend skills through real projects and self-study. My main focus is **Java backend development**, applying solid principles of **Object-Oriented Programming (OOP)**, clean code, and layered architectures such as **MVC**.
+### Backend Developer | Java • Spring Boot • AWS • Docker
 
-I have practical experience developing **institutional and administrative systems in production**, using **Java 17, Spring Boot, Spring Security, Spring Data JPA, and Maven**, with relational databases (**MySQL**) and ORM (**Hibernate**). I work with **business rules automation**, scheduled tasks, authentication and authorization (RBAC), and secure data handling.
+Building secure, scalable and maintainable backend applications.
 
-I also have experience with **containerized applications using Docker and Docker Compose**, deploying systems to **AWS (EC2)**, and integrating cloud services such as **S3** and **DynamoDB**. I am familiar with **RESTful APIs**, version control with **Git/GitHub**, and the fundamental principles of **microservices**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;Docker+%7C+AWS+%7C+CI%2FCD;Building+real-world+software" alt="Typing SVG" />
 
-Previously, I worked as a freelancer supporting a startup in the development of a **clinic management system**, and developed **Python automations** for a public organization in the legal and administrative sectors — including process automation tools and internal document handling solutions.
-
-I am currently seeking opportunities as a **Backend Java Intern or Junior Developer**, where I can contribute with real-world experience, strong backend fundamentals, and continuous learning.
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 👨‍💻 About Me
 
-### Languages
-`Java` `Python` `PHP` `JavaScript` `TypeScript`
+I'm a **Backend Developer focused on Java and Spring Boot**, with hands-on experience building web applications, REST APIs and systems used in real operational environments.
 
-### Backend & Frameworks
-`Spring Boot` `Spring Security` `Spring Data JPA` `Hibernate` `Maven`
+My main interests are **backend architecture, business rules, application security, APIs, databases, cloud infrastructure and DevOps**.
+
+* ☕ Backend development with **Java 17 & Spring Boot**
+* 🔐 Authentication and authorization with **Spring Security, JWT, RBAC, BCrypt & 2FA**
+* 🗄️ Relational databases with **MySQL & SQL**
+* 🐳 Applications containerized with **Docker & Docker Compose**
+* ☁️ Application deployment using **AWS EC2**
+* 🔄 CI/CD pipelines with **GitHub Actions**
+* 🧪 Automated testing with **JUnit & Mockito**
+* 🎓 Systems Analysis and Development — **PUCPR**
+* 📚 Business Administration — **UNESPAR**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,maven" />
 
 ### Frontend
-`Angular` `Next.js` `React` `HTML` `CSS` `JavaScript`
+
+<img src="https://skillicons.dev/icons?i=angular,ts,html,css" />
 
 ### Databases
-`MySQL` `PostgreSQL` `RDS` `TinyDB` `MongoDB`
 
-### DevOps & Cloud
-`Docker` `Docker Compose` `AWS EC2` `AWS S3` `AWS Lambda` `AWS IAM`
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-### Tools & Others
-`Git` `GitHub` `REST APIs`
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,postman" />
+
+</div>
 
 ---
 
-📌 **Highlighted Projects**
-- **JudicialControl / CCControl** – Institutional system for judicial attendance control (Java, Spring Boot, MySQL, Docker, AWS)
-- **Administrative Automations** – Python scripts for process optimization in legal and HR contexts
+## 🚀 Featured Projects
+
+### 🏛️ CCControl
+
+Institutional system developed to automate the monitoring of individuals serving alternative sentences.
+
+**Key features:**
+
+* Automated status classification based on attendance rules
+* Scheduled backend routines
+* Attendance history and reporting
+* Dashboards for operational monitoring
+* Role-based access control
+* Two-factor authentication
+* Security policies including CSRF, CSP and HTTPS
+* Production deployment using Docker Compose and AWS EC2
+
+**Stack**
+
+`Java 17` `Spring Boot` `Spring Security` `Spring Data JPA` `Hibernate` `MySQL` `Docker` `AWS EC2`
+
+---
+
+### 🦷 Dentix
+
+Full-stack dental clinic management system developed during my Software Development Trainee experience at **Wise Systems**.
+
+The application centralizes management of:
+
+* Patients
+* Dentists
+* Appointments
+* Financial operations
+* Reports
+
+**Backend features:**
+
+* REST API
+* JWT authentication
+* RBAC authorization
+* BCrypt password hashing
+* Two-factor authentication
+* Appointment conflict validation
+* Business rules for scheduling and availability
+
+**Infrastructure:**
+
+* Docker Compose
+* AWS EC2
+* Nginx
+* HTTPS
+
+**Stack**
+
+`Java 17` `Spring Boot` `Spring Security` `MySQL` `Angular` `TypeScript` `Docker` `AWS`
+
+---
+
+### ⚙️ Java API — CI/CD Pipeline
+
+Java REST API created as part of an academic DevOps project.
+
+**Highlights:**
+
+* Automated CI/CD pipeline with GitHub Actions
+* Unit testing
+* JUnit & Mockito
+* Docker containerization
+* Discord pipeline notifications
+
+**Stack**
+
+`Java` `GitHub Actions` `Docker` `JUnit` `Mockito`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lorenzo04andreoli&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo04andreoli&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/lorenzo04andreoli/lorenzo04andreoli/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/lorenzo-04-andreoli">
+  <img src="https://img.shields.io/badge/LinkedIn-Lorenzo%20Andreoli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:lorenzo04andreoli@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/lorenzo04andreoli">
+  <img src="https://img.shields.io/badge/GitHub-lorenzo04andreoli-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Building software to solve real-world problems.
+
+⭐ Feel free to explore my repositories and projects.
+
+</div>
