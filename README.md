@@ -156,7 +156,7 @@ Java REST API created as part of an academic DevOps project.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lorenzo04andreoli/lorenzo04andreoli/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/lorenzo04andreoli/lorenzo04andreoli/gh-pages/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
 
