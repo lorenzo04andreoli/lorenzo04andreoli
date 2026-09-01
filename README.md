@@ -20,7 +20,7 @@ I'm a **Backend Developer focused on Java and Spring Boot**, with hands-on exper
 * 🔐 **JWT, RBAC, BCrypt & 2FA**
 * 🗄️ **MySQL & SQL**
 * 🐳 **Docker & Docker Compose**
-* ☁️ **AWS EC2**
+* ☁️ **AWS**
 * 🔄 **GitHub Actions**
 * 🧪 **JUnit & Mockito**
 * 🎓 Systems Analysis and Development — **PUCPR**
