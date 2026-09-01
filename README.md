@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lorenzo Andreoli
+# :) Hi, I'm Lorenzo Andreoli
 
 <div align="center">
 
