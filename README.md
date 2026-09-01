@@ -134,19 +134,13 @@ Java REST API created as part of an academic DevOps project.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170"
-     src="https://github-readme-stats.vercel.app/api?username=lorenzo04andreoli&show_icons=true&theme=github_dark&hide_border=true"
-     alt="Lorenzo GitHub Stats"
-/>
+![GitHub followers](https://img.shields.io/github/followers/lorenzo04andreoli?style=for-the-badge&logo=github)
 
-<img height="170"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo04andreoli&layout=compact&theme=github_dark&hide_border=true"
-     alt="Lorenzo Top Languages"
-/>
+![GitHub stars](https://img.shields.io/github/stars/lorenzo04andreoli?style=for-the-badge&logo=github)
 
 </div>
 
