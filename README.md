@@ -10,22 +10,6 @@ Building secure and maintainable backend applications.
 
 <br><br>
 
-<a href="https://www.credly.com/badges/8df2f65a-f291-4d83-bd21-b83428de87e2/public_url">
-  <img
-    src="./assets/aws-certified-cloud-practitioner.png"
-    width="150"
-    alt="AWS Certified Cloud Practitioner"
-  />
-</a>
-
-### AWS Certified Cloud Practitioner
-
-**Amazon Web Services (AWS)**
-
-Issued Sep 2026 • Valid until Sep 2029
-
-[**🔗 Verify Credential**](https://www.credly.com/badges/8df2f65a-f291-4d83-bd21-b83428de87e2/public_url)
-
 </div>
 
 ---
@@ -44,6 +28,23 @@ I'm a **Backend Developer focused on Java and Spring Boot**, with hands-on exper
 * 🎓 Systems Analysis and Development — **PUCPR**
 
 ---
+<div align="center">
+<a href="https://www.credly.com/badges/8df2f65a-f291-4d83-bd21-b83428de87e2/public_url">
+  <img
+    src="./assets/aws-certified-cloud-practitioner.png"
+    width="150"
+    alt="AWS Certified Cloud Practitioner"
+  />
+</a>
+
+### AWS Certified Cloud Practitioner
+
+**Amazon Web Services (AWS)**
+
+Issued Sep 2026 • Valid until Sep 2029
+
+[**🔗 Verify Credential**](https://www.credly.com/badges/8df2f65a-f291-4d83-bd21-b83428de87e2/public_url)
+</div>
 
 ## 🛠️ Tech Stack
 
