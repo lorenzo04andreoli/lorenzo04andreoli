@@ -8,6 +8,24 @@ Building secure and maintainable backend applications.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;Docker+%7C+AWS+%7C+CI%2FCD;Building+real-world+software" alt="Typing SVG" />
 
+<br><br>
+
+<a href="https://www.credly.com/badges/8df2f65a-f291-4d83-bd21-b83428de87e2/public_url">
+  <img
+    src="./assets/aws-certified-cloud-practitioner.png"
+    width="150"
+    alt="AWS Certified Cloud Practitioner"
+  />
+</a>
+
+### AWS Certified Cloud Practitioner
+
+**Amazon Web Services (AWS)**
+
+Issued Sep 2026 • Valid until Sep 2029
+
+[**🔗 Verify Credential**](https://www.credly.com/badges/8df2f65a-f291-4d83-bd21-b83428de87e2/public_url)
+
 </div>
 
 ---
@@ -20,7 +38,7 @@ I'm a **Backend Developer focused on Java and Spring Boot**, with hands-on exper
 * 🔐 **JWT, RBAC, BCrypt & 2FA**
 * 🗄️ **MySQL & SQL**
 * 🐳 **Docker & Docker Compose**
-* ☁️ **AWS**
+* ☁️ **AWS — Certified Cloud Practitioner**
 * 🔄 **GitHub Actions**
 * 🧪 **JUnit & Mockito**
 * 🎓 Systems Analysis and Development — **PUCPR**
